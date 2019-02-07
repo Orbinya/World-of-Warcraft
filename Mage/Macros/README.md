@@ -50,7 +50,7 @@
 /cast [@arena1] Counterspell
 ```
 
-> Same as **Polymorph** macro, create 3 of them for `@arena1`, `@arena2` and `@arena3`. And if you keybind them you will be greatly reconstituted for this, beacause when ever you will face a hunter, you can replace `@arena1` by `@arenapet1`, which will allows you to **Counterspell** his pet!
+> Same as **Polymorph** macro, create 3 of them for `@arena1`, `@arena2` and `@arena3`. If you keybind them you will be greatly reconstituted for this, beacause when ever you will face a hunter, you can replace `@arena1` by `@arenapet1`, which will allows you to **Counterspell** his pet!
 
 > *But why CS pet ?* Well, I think you know that the hunter has a pet, and if he's a cunning specialist, he can order his pet to use [**Roar of Sacrifice**](https://www.wowhead.com/spell=67481/roar-of-sacrifice) (*RoS*), but he will not be able to use if his pet is silenced!
 
@@ -63,7 +63,7 @@
 /cast [nomod] Ice Barrier
 ```
 
-> It may happen that sometimes you face that mage who just spam that **Spellsteal** and you just wanna `/slap` his face... well i have a solution for ya! When ever you feel you have advantage, feel free to press `alt-[Keybind]` to cancel your **Ice Barrier**. On my part im using `alt` modifier, do not use `shift` modifier its pretty much waste of keybind, because that case wont happen really often! (*check out how to keybind spells*).
+> It can happen that sometimes you meet this mage who just spam **Spellsteal** and you just wanna `/slap` his face... well i have a solution for ya! When ever you feel you have advantage, feel free to press `alt-[Keybind]` to cancel your **Ice Barrier**. On my part im using `alt` modifier, do not use `shift` modifier its pretty much waste of keybind, because that case wont happen really often! (*check out how to keybind spells*).
 
 <h3 align="center"> Alter Time </h3>
 
