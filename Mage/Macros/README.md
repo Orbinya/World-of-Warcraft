@@ -100,7 +100,6 @@ If (use_macro_with_modifier)
 ```
 #showtooltip
 /cast [@mouseover] Ice Lance
-/
 ```
 > This macro is a really usefull tool, but it need some time to master it. It will allows you to shoot your **Ice Lance** on your cursor's target. It's handy when you want to kill **Psyfiend**, Shaman totems or Druid's **Wild Mushroom**.
 
