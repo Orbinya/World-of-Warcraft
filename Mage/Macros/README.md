@@ -1,6 +1,6 @@
 # Macros
 
-### Freeze - Summon Pet
+<p align="center"> Freeze - Summon Pet </p>
 
 **Script**
 ```
