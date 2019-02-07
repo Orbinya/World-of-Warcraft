@@ -94,3 +94,28 @@ If (use_macro_with_modifier)
   Else If (use_macro_with_modifier)
     Then back_in_time
 ```
+
+<h3 align="center"> Ice Lance </h3>
+
+```
+#showtooltip
+/cast [@mouseover] Ice Lance
+/
+```
+> This macro is a really usefull tool, but it need some time to master it. It will allows you to shoot your **Ice Lance** on your cursor's target. It's handy when you want to kill **Psyfiend**, Shaman totems or Druid's **Wild Mushroom**.
+
+<h3 align="center"> Arcane Brilliance </h3>
+
+```
+#showtooltip
+/cast [@player] Arcane Brilliance
+/tm [@player] 1
+/tm [@party1] 2
+/tm [@party2] 3
+```
+
+> Just by rebuffing you can put marks on the entire team.
+
+| Symbol | Index |
+|:------:| ----- |
+| ![alt text](https://vignette.wikia.nocookie.net/wowwiki/images/7/73/IconSmall_RaidSkull.png/revision/latest?cb=20071030174221) | 1 |
