@@ -43,7 +43,7 @@
 /cast [mod:shift] Alter Time
 ```
 
-> And here probably my favorite macro, it allows you to do exactly 3 things, yes 3! Im rewrote this code into a pseudo-code
+> And here is probably my favorite macro, it allows you to do exactly 3 things, yes 3! Im rewrote this code into a pseudo-code for for a better understanding.
 ```Pascal
 If (use_macro_without_modifier)
   Then use_alter_time
@@ -61,10 +61,3 @@ If (use_macro_with_modifier)
 
 End
 ```
-
-
-> 1. If you use this macro without any modifier, its just gonna use your Alter Time
->   1. If you repress it without any modifier, you will back in time.
->   1. Elsewhere if you press it with the modifier `shift`, you will acctualy cancel your Alter Time. Its really usefull when someone is waiting for you at the location you used your **Alter Time**.
-> 1. If you use this macro with the modifier `shift`, you will actually use your **Presence of Mind** and then right after use your **Alter Time**.
->   - If you
