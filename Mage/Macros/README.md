@@ -52,7 +52,7 @@
 
 > Same as **Polymorph** macro, create 3 of them for `@arena1`, `@arena2` and `@arena3`. And if you keybind them you will be greatly reconstituted for this, beacause when ever you will face a hunter, you can replace `@arena1` by `@arenapet1`, which will allows you to **Counterspell** his pet!
 
-> *But why CS pet ?* Well i believe you know that hunter has a pet, and if this one is specialized in cunning then the hunter can command his pet to use [**Roar of Sacrifice**](https://www.wowhead.com/spell=67481/roar-of-sacrifice) (*RoS*), however he wont be able to use it if his pet is silenced!
+> *But why CS pet ?* Well, I think you know that the hunter has a pet, and if he's a cunning specialist, he can order his pet to use [**Roar of Sacrifice**](https://www.wowhead.com/spell=67481/roar-of-sacrifice) (*RoS*), but he will not be able to use if your pet is silenced!
 
 <h3 align="center"> Ice Barrier </h3>
 
