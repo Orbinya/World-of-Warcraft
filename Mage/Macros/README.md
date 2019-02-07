@@ -116,7 +116,7 @@ If (use_macro_with_modifier)
 
 > Just by rebuffing you can put marks on the entire team.
 
- <table style="width:100%">
+ <table align="center" style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
