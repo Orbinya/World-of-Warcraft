@@ -1,7 +1,7 @@
 # Macros
 
-<p align="center"> Freeze - Summon Pet </p>
-
+<h3 align="center"> Freeze - Summon Pet </h3>
+***
 **Script**
 ```
 /cast [nopet] Summon Water Elemental; Freeze
