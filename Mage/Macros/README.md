@@ -116,6 +116,8 @@ If (use_macro_with_modifier)
 
 > Just by rebuffing you can put marks on the entire team.
 
+<div align="center">
 | Symbol | Index |
 |:------:| ----- |
 | ![alt text](https://vignette.wikia.nocookie.net/wowwiki/images/7/73/IconSmall_RaidSkull.png/revision/latest?cb=20071030174221) | 1 |
+</div>
