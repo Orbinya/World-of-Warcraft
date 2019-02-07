@@ -46,6 +46,6 @@
 > And here probably my favorite macro, it allows you to do exactly 3 things, yes 3!
 > 1. If you use this macro without any modifier, its just gonna use your Alter Time
 > - If you repress it without any modifier, you will back in time.
-> - Elsewhere if you press it with the modifier `shift`, you will acctualy cancel your Alter Time. Its really usefull when someone is waiting for you at the location you used your **Alter Time**.
+>   - Elsewhere if you press it with the modifier `shift`, you will acctualy cancel your Alter Time. Its really usefull when someone is waiting for you at the location you used your **Alter Time**.
 > 1. If you use this macro with the modifier `shift`, you will actually use your **Presence of Mind** and then right after use your **Alter Time**.
-> - If you
+>   - If you
