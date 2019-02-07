@@ -6,7 +6,7 @@
 
 Gladius adds enemy unit frames to **arenas** (*this addon will only be displayed during an arena match*). 
 
-<p align="center"> <img src="https://github.com/Orbinya/World-of-Warcraft/blob/master/Images/ExtraCD.jpg?raw=true" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Orbinya/World-of-Warcraft/master/Images/Gladius.jpg" /> </p>
 
 ## Slash Command and Configuration
-Type /ecd or /extracd to config, you can move the icons by dragging, hide any icon you don't want by ctrl + right clicking on the icon, and you can show it again in advance option.
+Type /gladius to configure the addon
