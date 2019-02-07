@@ -114,10 +114,10 @@ If (use_macro_with_modifier)
 /tm [@party2] 3
 ```
 
-> Just by rebuffing you can put marks on the entire team.
+> Just by rebuffing you can put marks on the entire team. Here is the table of all marks :
 
 | Symbol | Index |
-|:------:| ----- |
+|:------:|:-----:|
 | ![Star](https://vignette.wikia.nocookie.net/wowwiki/images/f/fd/IconSmall_RaidStar.png/revision/latest?cb=20071030173506) | 1 |
 | ![Circle](https://vignette.wikia.nocookie.net/wowwiki/images/2/23/IconSmall_RaidCircle.png/revision/latest?cb=20071030173533) | 2 |
 | ![Diamond](https://vignette.wikia.nocookie.net/wowwiki/images/2/2f/IconSmall_RaidDiamond.png/revision/latest?cb=20071030173555) | 3 |
