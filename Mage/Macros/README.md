@@ -1,5 +1,7 @@
 # Macros
 
+<p class="callout info">A success message</p>
+
 <h3 align="center"> Freeze - Summon Pet </h3>
 
 ```
