@@ -10,6 +10,7 @@
 > This macro combine 2 spells, when ever you have no pet, this will allows you to summon it; however if your pet is on the field the macro will perform freeze (*pet nova*).
 
 <h3 align="center"> Polymorph </h3>
+
 **Macro 1**
 
 ```
@@ -23,21 +24,7 @@
 #showtooltip
 /cast [@arena1] Polymorph
 ```
-
-**Macro 3**
-
-```
-#showtooltip
-/cast [@arena2] Polymorph
-```
-
-**Macro 4**
-
-```
-#showtooltip
-/cast [@arena3] Polymorph
-```
-
+> As you can see i dont have anything special on my **Polymorph** macro. The variant `/cast [@arena1] Polymorph` is very usefull when you are playing on 3v3 bracket. It allows to focus a specific player without switching it. On my side i have 3 of them for `@arena1`, `@arena2` and `@arena3`.
 
 <h3 align="center"> CounterSpell </h3>
 
