@@ -44,9 +44,9 @@
 ```
 
 > And here probably my favorite macro, it allows you to do exactly 3 things, yes 3! Im rewrote this code into a pseudo-code
-```Java
+```Pascal
 if (use_macro_without_modifier)
-  then ..
+  Then ..
   
 ```
 
