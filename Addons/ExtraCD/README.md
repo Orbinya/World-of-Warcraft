@@ -1,2 +1,3 @@
 # ExtraCD
-<p align="center"> [Download](https://github.com/Orbinya/World-of-Warcraft/raw/master/Addons/ExtraCD/ExtraCD.zip) </p>
+
+<a href="https://github.com/Orbinya/World-of-Warcraft/raw/master/Addons/ExtraCD/ExtraCD.zip">Download</a>
