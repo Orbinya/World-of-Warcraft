@@ -116,26 +116,13 @@ If (use_macro_with_modifier)
 
 > Just by rebuffing you can put marks on the entire team.
 
- <table align="center">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table> 
-
-<div align="center">
 | Symbol | Index |
 |:------:| ----- |
-| ![alt text](https://vignette.wikia.nocookie.net/wowwiki/images/7/73/IconSmall_RaidSkull.png/revision/latest?cb=20071030174221) | 1 |
-</div>
+| ![Star](https://vignette.wikia.nocookie.net/wowwiki/images/f/fd/IconSmall_RaidStar.png/revision/latest?cb=20071030173506) | 1 |
+| ![Circle](https://vignette.wikia.nocookie.net/wowwiki/images/2/23/IconSmall_RaidCircle.png/revision/latest?cb=20071030173533) | 2 |
+| ![Diamond](https://vignette.wikia.nocookie.net/wowwiki/images/2/2f/IconSmall_RaidDiamond.png/revision/latest?cb=20071030173555) | 3 |
+| ![Triangle](https://vignette.wikia.nocookie.net/wowwiki/images/8/86/IconSmall_RaidTriangle.png/revision/latest?cb=20071030173731) | 4 |
+| ![Moon](https://vignette.wikia.nocookie.net/wowwiki/images/5/5e/IconSmall_RaidMoon.png/revision/latest?cb=20071030173751) | 5 |
+| ![Square](https://vignette.wikia.nocookie.net/wowwiki/images/d/df/IconSmall_RaidSquare.png/revision/latest?cb=20071030174116) | 6 |
+| ![Cross](https://vignette.wikia.nocookie.net/wowwiki/images/e/e0/IconSmall_RaidCross.png/revision/latest?cb=20071030173844) | 7 |
+| ![Skull](https://vignette.wikia.nocookie.net/wowwiki/images/7/73/IconSmall_RaidSkull.png/revision/latest?cb=20071030174221) | 8 |
