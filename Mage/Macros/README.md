@@ -58,6 +58,4 @@ If (use_macro_with_modifier)
     Then remove_alter_time And stay_in_last_spot
   Else If (use_macro_with_modifier)
     Then back_in_time
-
-End
 ```
