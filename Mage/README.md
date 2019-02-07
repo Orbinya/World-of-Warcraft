@@ -1,1 +1,2 @@
 # Mage
+## Class overview
