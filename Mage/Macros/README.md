@@ -1,7 +1,5 @@
 # Macros
 
-<p class="callout info">A success message</p>
-
 <h3 align="center"> Freeze - Summon Pet </h3>
 
 ```
@@ -99,3 +97,7 @@ If (use_macro_with_modifier)
   Else If (use_macro_with_modifier)
     Then back_in_time
 ```
+
+h1 {
+  color: red;
+}
