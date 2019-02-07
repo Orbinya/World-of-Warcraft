@@ -1,6 +1,7 @@
 # Macros
 
 <h3 align="center"> Freeze - Summon Pet </h3>
+
 ```
 #showtooltip
 /cast [nopet] Summon Water Elemental; Freeze
@@ -10,21 +11,28 @@
 
 <h3 align="center"> Polymorph </h3>
 **Macro 1**
+
 ```
 #showtooltip
 /cast [mod:shift, @focus] Polymorph; Polymorph
 ```
+
 **Macro 2**
+
 ```
 #showtooltip
 /cast [@arena1] Polymorph
 ```
+
 **Macro 3**
+
 ```
 #showtooltip
 /cast [@arena2] Polymorph
 ```
+
 **Macro 4**
+
 ```
 #showtooltip
 /cast [@arena3] Polymorph
@@ -32,6 +40,7 @@
 
 
 <h3 align="center"> CounterSpell </h3>
+
 ```
 #showtooltip
 /stopcasting
@@ -44,6 +53,7 @@
 > - `/cancelaura Ice Block` : it may happen that you are inside your block and someone cast a spell, its the same logic as before, press your macro allows you to get out of it and lock on cast.
 
 <h3 align="center"> Ice Barrier </h3>
+
 ```
 #showtooltip Ice Barrier
 /cancelaura [mod:alt] Ice Barrier
@@ -54,6 +64,7 @@
 > It may happen that sometimes you face that mage who just spam that **Spellsteal** and you just wanna `/slap` his face... well i have a solution for ya! When ever you feel you have advantage, feel free to press `alt-[Keybind]` to cancel your **Ice Barrier**. On my part im using `alt` modifier, do not use `shift` modifier its pretty much waste of keybind, because that case wont happen really often! (*check out how to keybind spells*).
 
 <h3 align="center"> Alter Time </h3>
+
 ```
 #showtooltip Alter Time
 /cancelaura [mod:shift] Alter Time
@@ -63,6 +74,7 @@
 ```
 
 > And here is probably my favorite macro, it allows you to do exactly 3 things, yes 3! Im rewrote this code into a pseudo-code for for a better understanding.
+
 ```Pascal
 If (use_macro_without_modifier)
   Then use_alter_time
