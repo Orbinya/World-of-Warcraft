@@ -49,6 +49,7 @@ If (use_macro_without_modifier)
   Then use_alter_time
   If (use_macro_without_modifier)
     Then back_in_time
+    
   Else If (use_macro_with_modifier)
     remove_alter_time And stay_in_last_spot
 
@@ -56,6 +57,7 @@ If (use_macro_with_modifier)
   Then use_presence_of_mind And use_alter_time
   If (use_macro_without_modifier)
     Then remove_alter_time And stay_in_last_spot
+    
   Else If (use_macro_with_modifier)
     Then back_in_time
 ```
