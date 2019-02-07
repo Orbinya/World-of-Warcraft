@@ -33,14 +33,19 @@
 
 > It may happen that sometimes you face that mage who just spam that **Spellsteal** and you just wanna `/slap` his face... well i have a solution for ya! When ever you feel you have advantage, feel free to press `alt-[Keybind]` to cancel your **Ice Barrier**. On my part im using `alt` modifier, do not use `shift` modifier its pretty much waste of keybind, because that case wont happen really often! (*check out how to keybind spells*).
 
-<h3 align="center"> Mage Bomb </h3>
+<h3 align="center"> Alter Time </h3>
 
 ```
-#showtooltip
-/cancelaura ice block
-/cancelaura slow fall
-/dismount [mounted]
-/cast [mod:shift, @focus] Mage bomb; Mage bomb
+#showtooltip Alter Time
+/cancelaura [mod:shift] Alter Time
+/cast [nomod] Alter Time
+/cast [mod:shift] Presence of Mind
+/cast [mod:shift] Alter Time
 ```
-> Wow, there is soo much going on in this macro!
-> - `/cancelaura ice block` : as a mage you want have at least one spell to cancel your **Ice Block**, on my part i decided to put it on my **Mage Bomb** (*mage bomb is the default... .. Mage Bomb* x) *it represent* (**Nether Tempest**, **Living Bomb** and **Frost Bomb**), but you can chose other spell on your side (*dont add this script on your ice block!!*).
+
+> And here probably my favorite macro, it allows you to do exactly 3 things, yes 3!
+> 1. If you use this macro without any modifier, its just gonna use your Alter Time
+> 1.1. If you repress it without any modifier, you will back in time.
+> 1.1. Elsewhere if you press it with the modifier `shift`, you will acctualy cancel your Alter Time. Its really usefull when someone is waiting for you at the location you used your **Alter Time**.
+> 1. If you use this macro with the modifier `shift`, you will actually use your **Presence of Mind** and then right after use your **Alter Time**.
+> 1.1. If you
