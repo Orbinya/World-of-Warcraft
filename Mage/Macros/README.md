@@ -28,6 +28,8 @@
 
 <h3 align="center"> CounterSpell </h3>
 
+**Macro 1**
+
 ```
 #showtooltip
 /stopcasting
@@ -38,6 +40,19 @@
 > Lets study a bit this macro, beacause it's a really usefull one. 
 > - `/stopcasting` : when ever a player is casting a spell, you can imediatly interrut him on cast, even when you are casting on your own. Normally you have to walk to stop your cast and then press **Counterspell**, but with this macro you just have to press it.
 > - `/cancelaura Ice Block` : it may happen that you are inside your block and someone cast a spell, its the same logic as before, press your macro allows you to get out of it and lock on cast.
+
+**Macro 2**
+
+```
+#showtooltip
+/stopcasting
+/cancelaura Ice Block
+/cast [@arena1] Counterspell
+```
+
+> Same as **Polymorph** macro, create 3 of them for `@arena1`, `@arena2` and `@arena3`. And if you keybind them you will be greatly reconstituted for this, beacause when ever you will face a hunter, you can replace `@arena1` by `@arenapet1`, which will allows you to **Counterspell** his pet!
+
+<div style="background-color:lightblue"> Hi </div>
 
 <h3 align="center"> Ice Barrier </h3>
 
