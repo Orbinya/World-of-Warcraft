@@ -52,7 +52,10 @@
 
 > Same as **Polymorph** macro, create 3 of them for `@arena1`, `@arena2` and `@arena3`. And if you keybind them you will be greatly reconstituted for this, beacause when ever you will face a hunter, you can replace `@arena1` by `@arenapet1`, which will allows you to **Counterspell** his pet!
 
-<div style="background-color:lightblue"> Hi </div>
+<div style="background-color:lightblue">
+  <h3>This is a heading in a div element</h3>
+  <p>This is some text in a div element.</p>
+</div>
 
 <h3 align="center"> Ice Barrier </h3>
 
